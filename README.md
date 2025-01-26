@@ -1,7 +1,10 @@
-## Hi there I'm Asha Gaire 👋 
-- 🔭 I’m currently working on Full stack web development projects
-- 🌱 I’m currently learning advanced JavaScript
-- 👯 I’m looking to collaborate on product oriented projects
+## Hi, I'm Asha Gaire 👋  
+### [Explore My Portfolio](https://ashagaire.com.np/)  
+
+- 🔭 I’m actively working on full-stack web development projects.  
+- 🌱 Currently advancing my skills in JavaScript, C#, and modern development frameworks.  
+- 👯 Excited to collaborate on impactful, product-driven projects that make a difference.  
+
 
 ## Languages and Tools
 <p align="left">
@@ -25,4 +28,4 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashagaire&layout=compact&hide=jupyter%20notebook&cache_bust=1)
 
 ## Current Project
-- [Deraa App](https://github.com/ashagaire/deraa): A web application in PREN stack, which manages listing of rental properties.
+- [Deraa App](https://github.com/ashagaire/deraa): An apartment listing web application built in React Typescript for Frontend and C# for Backend.
