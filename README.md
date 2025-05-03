@@ -2,7 +2,7 @@
 ## ***[Explore My Portfolio Here](https://ashagaire.com.np/)***  
 
 - 🔭 I’m actively working on full-stack web development projects.  
-- 🌱 Currently advancing my skills in JavaScript, C#, and modern development frameworks.  
+- 🌱 Currently advancing my skills in TypeScript, C# , frameworks React and ASP.NET.
 - 👯 Excited to collaborate on impactful, product-driven projects that make a difference.  
 
 
@@ -28,4 +28,4 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashagaire&layout=compact&hide=jupyter%20notebook&cache_bust=1)
 
 ## Current Project
-- [Deraa App](https://github.com/ashagaire/deraa): An apartment listing web application built in React Typescript for Frontend and C# for Backend.
+- [Kojh App](https://github.com/ashagaire/Kojh) : A company profile directory web application built in React TypeScript for the frontend and C# for the backend. Data managed via RESTful APIs using C# with PostgreSQL.
