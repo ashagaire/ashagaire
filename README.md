@@ -28,4 +28,4 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashagaire&layout=compact&hide=jupyter%20notebook&cache_bust=1)
 
 ## Current Project
-- [Kojh App](https://github.com/ashagaire/Kojh) : A company profile directory web application built in React TypeScript for the frontend and C# for the backend. Data managed via RESTful APIs using C# with PostgreSQL.
+- [Restaurant Web App](https://github.com/ashagaire/nepali_restaurant) : A web application focused on full admin features for Restaurant menu updates and more. Built in NextJS React TypeScript. Data managed via RESTful APIs with Prisma, PostgreSQL.
